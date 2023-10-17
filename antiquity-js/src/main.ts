@@ -9,13 +9,16 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
       <img src="${jofIcon}" class="logo" alt="JOF Icon" />
     </a>
     <a href="https://jaroffiles.com/nm" target="_blank">
-      <img src="${jofLogo}" class="logo vanilla" alt="JOF Logo" />
+      <img src="${jofLogo}" class="logo" alt="JOF Logo" />
     </a>
     <h1>Jar of Files</h1>
     <div class="card">
       <button id="counter" type="button"></button>
     </div>
-    <p class="read-the-docs">
+    <p>
+     <img src="taco.svg" alt="taco"/>
+    </p>
+    <p class="jar-of-files">
       JOF
     </p>
   </div>

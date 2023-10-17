@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" version="1.1">
+  <!-- Sausage -->
+  <ellipse fill="#FFA500" cx="100" cy="100" rx="70" ry="30"></ellipse>
+  
+  <!-- Meatballs -->
+  <circle fill="#FF4500" cx="80" cy="160" r="20"></circle>
+  <circle fill="#FF4500" cx="120" cy="160" r="20"></circle>
+  
+  <!-- Sausage Outline -->
+  <ellipse fill="none" stroke="#000000" stroke-width="2" cx="100" cy="100" rx="70" ry="30"></ellipse>
+</svg>
